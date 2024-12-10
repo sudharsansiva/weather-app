@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     /* background:linear-gradient(to right,rgba(255, 0, 0, 0.548), rgba(49, 184, 202, 0.781)); */
-    background: url(./image/desktop-wallpaper-live-weather-for-pc-group.jpg);
+    background: url(./image/desktop-wallpaper-live-weather-for-pc-group.jpg) no-repeat center;
     background-size: cover;
     
 }
